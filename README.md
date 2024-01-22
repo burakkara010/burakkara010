@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Burak Kara, a Microsoft Azure specialist from the Netherlands
 
 <!--
 **burakkara010/burakkara010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)

@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Burak Kara, a Microsoft Azure specialist from the Netherlands
+I'm Burak Kara, a Microsoft Azure specialist living in the Netherlands
 
 <!--
 **burakkara010/burakkara010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@ I'm Burak Kara, a Microsoft Azure specialist living in the Netherlands
 
 About me
 
-💼 FrontEnd Engineer at Razorpay
+💼 DevOps Consultant at [Devoteam](https://nl.devoteam.com/)
 
 📈 Working on various Azure IaC projects 
 

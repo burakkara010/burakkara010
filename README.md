@@ -11,7 +11,7 @@ About me
 
 💬 Ask me about Microsoft Azure, Infrastructure Automation or football 
 
-[![My Skills](https://skillicons.dev/icons?i=azure,vscode,github,terraform)]()
+[![My Skills](https://skillicons.dev/icons?i=azure,vscode,github,terraform)]
 
 <!--
 **burakkara010/burakkara010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

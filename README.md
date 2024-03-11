@@ -11,7 +11,8 @@ About me
 
 💬 Ask me about Microsoft Azure, Infrastructure Automation or :soccer: football 
 
-💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/burak-kara-azure-solutions-architect-azure-consultant/) 
+![image](https://github.com/burakkara010/burakkara010/assets/33837586/0e7348e4-3521-45f7-8742-962535b8b870) Sharing updates on [LinkedIn](https://www.linkedin.com/in/burak-kara-azure-solutions-architect-azure-consultant/) 
+
 
 
 ![My Skills](https://skillicons.dev/icons?i=azure,vscode,powershell,terraform,git,github,kubernetes,linux,windows,&theme=light)

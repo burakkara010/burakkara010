@@ -9,7 +9,7 @@ About me
 
 ❤️ I love writing Code, and building automated deployments
 
-💬 Ask me about Microsoft Azure, Infrastructure Automation or football 
+💬 Ask me about Microsoft Azure, Infrastructure Automation or :soccer: football 
 
 ![My Skills](https://skillicons.dev/icons?i=azure,vscode,powershell,terraform,git,github,kubernetes,linux,windows,&theme=light)
 

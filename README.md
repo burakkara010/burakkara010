@@ -1,6 +1,18 @@
 ### Hi there 👋
 I'm Burak Kara, a Microsoft Azure specialist living in the Netherlands
 
+About me
+
+💼 FrontEnd Engineer at Razorpay
+
+📈 Working on various Azure IaC projects 
+
+❤️ I love writing Code, and building automated deployments
+
+💬 Ask me about Microsoft Azure, Infrastructure Automation or football 
+
+[![My Skills](https://skillicons.dev/icons?i=azure,vscode,github,terraform)](https://skillicons.dev)
+
 <!--
 **burakkara010/burakkara010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

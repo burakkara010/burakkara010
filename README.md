@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=burakkara010&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+-->

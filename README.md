@@ -9,7 +9,7 @@ About me
 
 ❤️ I love writing Code, and building automated deployments
 
-💬 Ask me about Microsoft Azure, Infrastructure Automation or :soccer: football 
+💬 Ask me about Microsoft Azure, Automation, CI/CD, AI or :soccer: football 
 
 :link: Sharing updates on [LinkedIn](https://www.linkedin.com/in/burak-kara-azure-solutions-architect-azure-consultant/) 
 

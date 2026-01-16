@@ -11,7 +11,7 @@ About me
 
 💬 Ask me about Microsoft Azure, Automation, CI/CD, AI or :soccer: football 
 
-:link: Sharing updates on [LinkedIn](https://www.linkedin.com/in/burak-kara-azure-solutions-architect-azure-consultant/) 
+:link: Sharing updates on [LinkedIn](https://www.linkedin.com/in/burak-kara-cloud-specialist/) 
 
 
 

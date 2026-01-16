@@ -3,7 +3,7 @@ I'm Burak Kara, a Microsoft Azure specialist living in the Netherlands
 
 About me
 
-💼 DevOps Specialist at [CloudGen](https://www.cloudgen.nl/)
+💼 Cloud Specialist at [CloudGen](https://www.cloudgen.nl/)
 
 📈 Working on various Azure IaC projects 
 

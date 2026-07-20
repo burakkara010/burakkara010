@@ -15,7 +15,7 @@ About me
 
 
 
-![My Skills](https://skillicons.dev/icons?i=azure,vscode,powershell,terraform,git,github,kubernetes,linux,windows,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=azure,vscode,terraform,powershell,git,github,docker,kubernetes,linux,windows,postman,nodejs,py,pytorch,tensorflow,&theme=light)
 
 <!--
 **burakkara010/burakkara010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

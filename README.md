@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Burak Kara, a Microsoft Azure specialist living in the Netherlands
+I'm Burak Kara, a Cloud Specialist living in the Netherlands
 
 About me
 
